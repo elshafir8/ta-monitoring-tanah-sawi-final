@@ -7,8 +7,8 @@
 // --- KREDENSIAL WIFI & FIREBASE ---
 const char* ssid = "MASUKKAN_USER_WIFI";
 const char* password = "MASUKKAN_PASSWORD_WIFI";
-#define FIREBASE_HOST "sawi-hijau-ai-default-rtdb.asia-southeast1.firebasedatabase.app"
-#define FIREBASE_AUTH "lbT9iGdhVDkR1zTTIvFMccryx9XorwxURnLQiYX1"
+#define FIREBASE_HOST "MASUKKAN_URL_FIREBASE_DISINI"
+#define FIREBASE_AUTH "MASUKKAN_DATABASE_SECRET_DISINI"
 
 // --- KONFIGURASI PIN SENSOR & AKTUATOR ---
 #define DHTPIN 15
